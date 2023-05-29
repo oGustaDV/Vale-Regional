@@ -1,0 +1,1 @@
+Este projeto tem como ideia principal a remasterização do site ja existente da Vale Regional.
